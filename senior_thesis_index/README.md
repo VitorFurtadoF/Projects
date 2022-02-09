@@ -3,6 +3,7 @@
 ## Description
 
 During the past two years in Undergrad, I have worked with two projects that involved Python:
+   
     - As an undergrad Research Assistant at the University of Notre Dame, I worked on the Database for the BLS model (Baumeister, 
     Christiane, et al. “Tracking Weekly State-Level Economic Conditions.” 2021). This project developed a 
     weekly economic activity index for the 50 U.S. states. I used Python to request and treat the data, run a dynamic factor model
