@@ -1,0 +1,4 @@
+﻿date,Real_GDP_SA,Investment_goods_manufact,Uncertainty_Index,Household_credit,Residential_prices,Air_Traffic_(Domestic),Unemployment_Rate,Unemployment_Claims,Automobile_Sales,Manufacturing_Working_hours_index,Industrial_Capacity_Utilization_Index,Industrial_Production_Index,Steel_Production,Petroleum_Product_Sales,Energy_Generation,Nominal_Revenue_Tourism_Index,Retail_Trade_Index,Tendancy_manufact_exports,Tendancy_manufact_production,Tendancy_employment,Foreign_Trade_Index,Average_Real_Income,3_months_bond_yield,Apple_Mobility_Index,Fuel_Price_Ethanol,Agriculture_Price:Soybean,Dollar_Rate,Ibov,Savings_Deposits,Foreign_Trade_Balance
+Frequency_Code,1,1,1,1,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,3,3,3,3,3,3,3
+Transformation_Code,13,0,14,13,1,0,1,1,7,1,1,7,7,7,7,7,7,1,1,1,7,7,1,1,16,16,16,16,16,17
+Sector_Code,5,5,6,2,2,1,3,3,5,5,5,5,5,5,5,5,5,6,6,6,4,2,4,1,1,5,4,4,4,4

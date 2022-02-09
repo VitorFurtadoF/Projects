@@ -1,0 +1,1 @@
+download_path = '/Users/vitor/Desktop/Vitor_Senior_Thesis/Downloads/'
